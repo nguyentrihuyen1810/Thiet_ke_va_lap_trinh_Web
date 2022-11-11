@@ -1,0 +1,17 @@
+h1 {
+    color: lightseagreen;
+    text-align: center;
+}
+
+section {
+    margin-top: 50px;
+}
+
+.footer footer {
+    margin-top: 550px;
+    margin-left: 1100px;
+}
+
+footer p {
+    color: red;
+}

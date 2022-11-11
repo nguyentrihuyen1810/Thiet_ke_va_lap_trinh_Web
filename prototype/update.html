@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <title>Chỉnh sửa</title>
+</head>
+<body>
+<div class = "header">
+  <img src="img/logo.png">
+  <div class="textLogo">
+    <h6 style="color: white">ĐẠI HỌC ĐÀ NẴNG</h6>
+    <h4 style="color: white">TRƯỜNG ĐẠI HỌC SƯ PHẠM</h4>
+    <h6 style="color: white">HỆ THỐNG TÍCH HỢP THÔNG TIN</h6>
+  </div>
+  <div class = "textRight">
+    <h5 style = "color: white">Quản lý tiền đoàn phí sinh viên</h5>
+  </div>
+</div>
+
+<div class = "addForm" style = "border: 3px solid #270082; background-color: azure; height: 380px; margin-top: 50px">
+  <h3>Chỉnh sửa thông tin sinh viên</h3>
+  <div class="input-group mb-3" style="width: 40%; float: left; margin-left: 40px; margin-top: 20px">
+    <span class="input-group-text" id="basic-addon1" style="background-color: #270082; color: white">Mã sinh viên</span>
+    <input type="text" class="form-control" aria-label="Username" aria-describedby="basic-addon1">
+  </div>
+
+  <div class="input-group mb-3" style="width: 45%; float: left; margin-left: 20px; margin-top: 20px">
+    <span class="input-group-text" id="basic-addon3" style="background-color: #270082; color: white">Ngày sinh</span>
+    <input type="date" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+  </div>
+
+  <div class="input-group mb-3" style="width: 55%; float: left; margin-left: 40px">
+    <span class="input-group-text" id="basic-addon2" style="background-color: #270082; color: white">Họ và tên</span>
+    <input type="text" class="form-control" aria-label="Recipient's username" aria-describedby="basic-addon2">
+  </div>
+
+  <div class="input-group mb-3" style="width: 31%; float: left; margin-left: 10px">
+    <span class="input-group-text" style="background-color: #270082; color: white">Lớp sinh hoạt</span>
+    <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+  </div>
+
+  <div class="input-group mb-3" style="width: 100%; float: left; margin-left: 0px; margin-top: 0px">
+    <span class="input-group-text" style="background-color: #270082; color: white; margin-left: 40px">Giới tính</span>
+    <div class="form-check form-check-inline" style="margin-top: 10px; margin-left: 20px">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option1">
+      <label class="form-check-label" for="inlineRadio1">Nam</label>
+    </div>
+
+    <div class="form-check form-check-inline" style="margin-top: 10px;">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio4" value="option2">
+      <label class="form-check-label" for="inlineRadio2">Nữ</label>
+    </div>
+  </div>
+
+  <select class="form-select form-select-sm" aria-label=".form-select-sm example" style="width: 40%; float: left; margin-left: 40px; margin-top: 20px; height: 40px; margin-top: 0px">
+    <option selected>Chọn kỳ học</option>
+    <option value="1">Kỳ 1</option>
+    <option value="2">Kỳ 2</option>
+    <option value="3">Kỳ 3</option>
+    <option value="4">Kỳ 4</option>
+    <option value="5">Kỳ 5</option>
+    <option value="6">Kỳ 6</option>
+    <option value="7">Kỳ 7</option>
+    <option value="8">Kỳ 8</option>
+    <option value="9">Kỳ 9</option>
+    <option value="10">Kỳ 10</option>
+    <option value="11">Kỳ 11</option>
+    <option value="12">Kỳ 12</option>
+  </select>
+
+
+  <div class="input-group mb-3" style="width: 45%; float: left; margin-left: 0px; margin-top: 0px">
+    <span class="input-group-text" style="background-color: #270082; color: white; margin-left: 40px">Trạng thái</span>
+    <div class="form-check form-check-inline" style="margin-top: 10px; margin-left: 20px">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+      <label class="form-check-label" for="inlineRadio1">Đã nộp</label>
+    </div>
+
+    <div class="form-check form-check-inline" style="margin-top: 10px;">
+      <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+      <label class="form-check-label" for="inlineRadio2">Chưa nộp</label>
+    </div>
+  </div>
+
+  <a style = "float: right; margin-right: 80px; margin-top: 20px" href="home.html"><span>Trở về</span><i></i></a>
+  <a style = "float: right; margin-right: 20px; margin-top: 20px" href="#"><span>Cập nhập</span><i></i></a>
+</div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>
+</html>
