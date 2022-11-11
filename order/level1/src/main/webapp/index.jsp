@@ -7,7 +7,6 @@
 <body>
 </h1>
 <br/>
-level 1
 <form name = "form" method="get" action="orderSummary.jsp">
     <div style="float: left; margin-left: 50px">
         <h4>Accessories</h4>
