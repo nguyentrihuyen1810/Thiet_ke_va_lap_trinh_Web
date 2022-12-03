@@ -120,3 +120,10 @@ values ('SV-001', 'Ngô Ðức Tuấn', '19CNTT', '2001-10-04', 1, 1, 1, 1),
 
 -- delete student
 -- delete from student where student_id = ?;
+
+select course_name, student_class, count(student_name), count(student_status), branch_price, branch_total from branch
+join course on course.course_id = branch.branch_course_id
+join student on student.student_course_id = course.course_id
+where student_class like '20CNTT' and student_status = 1
+group by student_status
+having ;
