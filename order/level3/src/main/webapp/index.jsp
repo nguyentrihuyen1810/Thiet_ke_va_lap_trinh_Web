@@ -5,6 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
+
 <form action="orderSummary.jsp" method="get">
     <div style = "float: left;">
         <h4>Processor</h4>

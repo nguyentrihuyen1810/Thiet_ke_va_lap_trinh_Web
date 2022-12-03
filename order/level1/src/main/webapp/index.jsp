@@ -7,7 +7,7 @@
 <body>
 </h1>
 <br/>
-123
+
 <form name = "form" method="get" action="orderSummary.jsp">
     <div style="float: left; margin-left: 50px">
         <h4>Accessories</h4>

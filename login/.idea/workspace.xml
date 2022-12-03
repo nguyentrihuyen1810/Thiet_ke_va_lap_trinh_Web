@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cba18d1-16a4-4f6e-9ea1-a47f3f78cc3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../session/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session/src/main/webapp/information2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/level1/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../order/level1/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/level2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order/level2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/level2/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../order/level2/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order/level3/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../order/level3/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prototype/styleLogin.css" beforeDir="false" afterPath="$PROJECT_DIR$/../prototype/styleLogin.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HvV9K5ITvTFB4KS2V1EASBxJ9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/DH/Nam_3/Ki 1/Thiet ke va lap trinh web/Thiet_ke_va_lap_trinh_Web/information"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cba18d1-16a4-4f6e-9ea1-a47f3f78cc3a" name="Changes" comment="" />
+      <created>1669165392694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669165392694</updated>
+      <workItem from="1669165394672" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

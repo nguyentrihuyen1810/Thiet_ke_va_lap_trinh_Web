@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="level2:war" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc6106d4-6048-4966-ae40-d8c11915c043" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../session/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../session/src/main/webapp/order.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../level1/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../level1/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../level3/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../level3/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prototype/styleLogin.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../prototype/styleLogin.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/DH/Nam_3/Ki 1/Thiet ke va lap trinh web/Thiet_ke_va_lap_trinh_Web/order/level1"
+    "last_opened_file_path": "D:/DH/Nam_3/Ki 1/Thiet ke va lap trinh web/Thiet_ke_va_lap_trinh_Web/order/level2"
   }
 }]]></component>
   <component name="RunManager">
@@ -139,6 +157,10 @@
       <workItem from="1668155333128" duration="109000" />
       <workItem from="1668156414696" duration="472000" />
       <workItem from="1668158966462" duration="21000" />
+      <workItem from="1668212127517" duration="317000" />
+      <workItem from="1668563875085" duration="1493000" />
+      <workItem from="1668595857556" duration="75000" />
+      <workItem from="1669166545159" duration="1649000" />
     </task>
     <servers />
   </component>

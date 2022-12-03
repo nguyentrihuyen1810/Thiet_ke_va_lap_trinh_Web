@@ -6,7 +6,7 @@
     font-family: 'Poppins',sans-serif;
 }
 body{
-    background: #c7ecee;
+    background: #f6f6f9;
     overflow: hidden;
 }
 ::selection{
@@ -27,7 +27,7 @@ body{
     height: 90px;
     background: #270082;
     border-radius: 5px 5px 0 0;
-    color: #fff;
+    color: white;
     font-size: 30px;
     font-weight: 600;
     display: flex;
@@ -84,7 +84,7 @@ form .row input::placeholder{
     text-decoration: underline;
 }
 .wrapper form .button input{
-    color: #fff;
+    color: white;
     font-size: 20px;
     font-weight: 500;
     padding-left: 0px;
